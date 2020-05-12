@@ -1,4 +1,4 @@
-package package1;
+package javamethods1;
 
 public class Bank_abc  extends Bank {
 	int getinterestrate() {
