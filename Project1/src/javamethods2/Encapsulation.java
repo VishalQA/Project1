@@ -1,4 +1,4 @@
-package topics;
+package javamethods2;
 
 public class Encapsulation {
 
